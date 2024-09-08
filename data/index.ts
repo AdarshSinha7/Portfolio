@@ -2,6 +2,7 @@ export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Testimonials", link: "#testimonials" },
+    { name: "Experience", link: "#experience" },
     { name: "Contact", link: "#contact" },
   ];
   
@@ -107,48 +108,36 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I am a final year student from NERIST, with a CGPA of 8.83 and have learnt multiple subjects as a part of the course work which can be relevant for devlopment.",
+      name: "College Work",
+      title: "Overview",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "As a part of course work i have learnt subjects such as computer networking, data base management systme and Operating System.",
+      name: "Academics",
+      title: "Course work completed",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "The online suspension Module, developed by Adarsh Sinha, is a sophisticated full-stack web application designed to enhance the vigilance section's efficiency in mainaging registers and issuing clearances. He worked as an integral part of AAIIS and during the training period, his performance was Excellent.",
+      name: "K. Rajesh",
+      title: "Outstanding Scientist and Head, Computer DIvision",
     },
   ];
   
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
-      img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      name: "NERIST",
+      img: "/nerist.png",
+      nameImg: "/neristNAME.png",
     },
     {
       id: 2,
-      name: "appwrite",
-      img: "/app.svg",
-      nameImg: "/appName.svg",
+      name: "BARC",
+      img: "/images.png",
+      nameImg: "/barc1.png",
     },
     {
       id: 3,
@@ -173,29 +162,15 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "JAVA Devloper Intern",
+      desc: "Designed and developed a full stack web application for the Vigilance section of BARC mumbai using Java Spring framwork, postgresql, and Hibernate ORM for robust infrastructure and seamless data management",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
-    },
-    {
-      id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
-    },
-    {
-      id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Freelance web application devlopement",
+      desc: "Developed and maintained a web application for a business in gorakhpur. Built a user friendly website for client to see the listings of the business using nextJS.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
