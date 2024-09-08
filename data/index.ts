@@ -74,35 +74,28 @@ export const navItems = [
     {
       id: 1,
       title: "YouTube Backend devloped using Express and NodeJS.",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      des: "It is a project where the backend of YouTube is developed using Express and NodeJS alongside several production grade practices to write the code.",
+      img: "/YT.png",
+      iconLists: ["/exp.png", "/node.jpeg", "/mongo.jpeg"],
+      link: "https://github.com/AdarshSinha7/projectBACKEND",
     },
     {
       id: 2,
       title: "Srishti Website for college Cultural Fest",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      des: "This is the website fot the college cultural fest created using React for frontend. Alongside Node and Express for the backend.",
+      img: "/Sona.png",
+      iconLists: ["/re.svg", "/tail.svg", "/exp.png", "/node.jpeg"],
+      link: "https://www.sonabyss2k23.com/",
     },
     {
       id: 3,
       title: "The Portfolio Website",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      des: "My dev Portfolio that has been created using NextJS and framer motion alongside aceterninty.",
+      img: "/Port.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg"],
+      link: "https://github.com/AdarshSinha7/Portfolio",
     },
-    {
-      id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
-    },
+    
   ];
   
   export const testimonials = [
