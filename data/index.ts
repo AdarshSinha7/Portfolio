@@ -81,7 +81,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Srishti Website for college Cultural Fest",
+      title: "Sonabyss Website for college Cultural Fest",
       des: "This is the website fot the college cultural fest created using React for frontend. Alongside Node and Express for the backend.",
       img: "/Sona.png",
       iconLists: ["/re.svg", "/tail.svg", "/exp.png", "/node.jpeg"],
